@@ -120,3 +120,7 @@ riscv-dbg:
 register_interface:
   commit: v0.3.1
   domain: [soc]
+
+wide_alu_test:
+  commit: new_regint
+  group: x11to
